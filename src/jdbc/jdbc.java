@@ -18,6 +18,8 @@ public class jdbc {
          // ex.printStackTrace();
       } catch (SQLException ex) {
          System.out.println("DBMS와 연결할수 없습니다.");
+         System.out.println("DBMS와 연결할수 없습니다.");
+         System.out.println("DBMS와 연결할수 없습니다.");
 
       } finally {
          try {
