@@ -15,6 +15,10 @@ public class jdbc {
          System.out.println("DB연결 성공");
       } catch (ClassNotFoundException ex) {
          System.out.println("JDBC  라이브러리를 찾을 수 없습니다.");
+         System.out.println("JDBC  라이브러리를 찾을 수 없습니다.");
+         System.out.println("JDBC  라이브러리를 찾을 수 없습니다.");
+         System.out.println("JDBC  라이브러리를 찾을 수 없습니다.");
+         
          // ex.printStackTrace();
       } catch (SQLException ex) {
          System.out.println("DBMS와 연결할수 없습니다.");
